@@ -1,3 +1,7 @@
+## Disclaimer
+
+No warranty.
+
 ## WFH log automator
 
 > last updated May 2022
